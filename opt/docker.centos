@@ -1,0 +1,1 @@
+other_args="-g /app/docker --registry-mirror=https://docker.mirrors.ustc.edu.cn"
